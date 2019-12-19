@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "wwwroot/assets/css/style.css",
+    "inputFile": "assets/scss/style.scss"
+  },
+  {
+    "outputFile": "wwwroot/assets/sass/theXor.css",
+    "inputFile": "wwwroot/assets/sass/theXor.scss"
+  }
+]
